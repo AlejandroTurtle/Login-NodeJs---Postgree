@@ -13,7 +13,7 @@ const smtp = nodemailer.createTransport({
     secureConnection: false,
     auth: {
         user: "suportealejandrog@gmail.com",
-        pass: "mwdp ymug qylf buoh"
+        pass: "mwdp ymug qylf buoh8677"
 
     },
     tls: {
